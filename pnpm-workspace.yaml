@@ -1,0 +1,16 @@
+packages:
+  - packages/*
+  - api
+  - api-e2e
+  - web
+
+ignoredBuiltDependencies:
+  - '@nestjs/core'
+  - '@parcel/watcher'
+  - '@prisma/client'
+  - '@prisma/engines'
+  - bcrypt
+  - esbuild
+  - prisma
+  - sharp
+  - unrs-resolver
