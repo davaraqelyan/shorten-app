@@ -104,6 +104,12 @@ A full-stack URL shortener built with NestJS, Next.js, and PostgreSQL.
    # Terminal 2 - Web (port 3000)  
    cd web && pnpm dev
    ```
+  *** Alternative ***
+  ```bash
+   nx serve api
+   
+   nx dev web
+   ```
 
 ## 📱 Demo Features
 
